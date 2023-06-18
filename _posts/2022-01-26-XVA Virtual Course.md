@@ -4,7 +4,7 @@ title:  "XVA Modelling and Management training course"
 author: alexis
 categories: [ Event ]
 image: assets/images/2.jpg
-tags: [training, XVA modelling, XVA management, featured]
+tags: [training, XVA modelling, XVA management]
 ---
 4 day virtual course organised by Risk.net on March 7–10, 2022, this looks like a must-have for most XVA quants, traders, and management. Early bird rates at $1,699.00, up to $1,999.00 (+$399.80 VAT) after 4th February. It should be noted that speakers often offer 20% off when contacted directly.
 
