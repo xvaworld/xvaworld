@@ -2,6 +2,7 @@
 layout: post
 title:  "Publication about AAD for XVA"
 author: alexis
+image: assets/images/geometry-gf482c48ad_640.jpg
 categories: [ Publication ]
 tags: [training, XVA modelling, XVA management, XVA sensitivities, featured]
 ---
