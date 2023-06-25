@@ -1,6 +1,8 @@
 # Site
 name: 'XVA World'
-description: 'All things dedicated to XVA (x-Value Adjustment) and CVA (Credit Value Adjustment)'
+title: 'XVA World'
+tagline: 'All things dedicated to XVA (x-Value Adjustment) and CVA (Credit Value Adjustment)'
+description: 'News and publications on XVA and CVA, open for anyone to contribute!'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
