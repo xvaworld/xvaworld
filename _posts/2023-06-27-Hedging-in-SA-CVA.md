@@ -3,7 +3,7 @@ layout: post
 title:  "Hedging in SA-CVA"
 author: alexis
 categories: [ Press ]
-image: assets/images/risk-net-logo.jpg
+image: assets/images/logo-mi.png
 tags: [Press, article, risk management, hedging, SA-CVA]
 ---
 An insightful article from S&P GLobal Market Intelligence : [Navigating the Challenges and Nuances of Hedging in SA-CVA](https://www.spglobal.com/marketintelligence/en/mi/research-analysis/challenges-hedging-in-sacva.html).
